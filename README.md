@@ -59,7 +59,6 @@ I'm a **game developer** and **graphics programmer** passionate about blending *
 
 📫 **Let's Connect!**  
 💌 Email: [bhatiyaaradhya@gmail.com](mailto:bhatiyaaradhya@gmail.com)  
-🌎 **Portfolio:** [your-portfolio-url]  
 
 ---
 
