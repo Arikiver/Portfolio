@@ -25,17 +25,17 @@ I'm a **game developer** and **graphics programmer** passionate about blending *
 
 ## 🔥 Featured Projects  
 
-### 🎮 [Lucius: The Endless Maze Runner](your-github-repo-url)  
+### 🎮 [Lucius: The Endless Maze Runner](https://github.com/Arikiver/LUCIUS)  
 - **3D maze runner game** with **procedural maze generation**  
 - Implemented a **backtracking algorithm** for dynamic levels  
 - Custom ambient music and hand-drawn assets  
 
-### 🎮 [Questify: Gamify Your Life](your-drive-link)  
+### 🎮 [Questify: Gamify Your Life](https://drive.google.com/drive/u/1/folders/18tPgMMLOqlX9nFiKS_qoykYIJajOnydn)  
 - **Pet-based task manager** built in Unity using C# and GraphQL API  
 - **Gamified productivity** with RPG-style mechanics, exploration, and collectibles  
 - **Procedural generation**, custom textures, and an **immersive soundtrack**  
 
-### 🎮 [9:11 (2D Endless Runner)](your-github-repo-url)  
+### 🎮 [9:11 (2D Endless Runner)](https://github.com/Arikiver/911-the-game)  
 - Built in **GameMaker Studio** with hand-drawn assets for a unique visual style  
 - **Designed characters, environments, obstacles**, and UI elements  
 - **Highlighted as a personal favorite** at Global Game Jam 2024  
