@@ -4,7 +4,7 @@
 
 📍 **UPES, Dehradun** | 🎓 **BTech CSE (Gaming & Graphics) [2022 – 2026]**  
 
-🔗 [LinkedIn](your-linkedin-url) • [GitHub](your-github-url) • [Portfolio](your-portfolio-url)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aaradhya-bhatiya-ab213124a/) • [Portfolio](https://drive.google.com/drive/u/1/folders/1IPBCjdRn0tulM7xojXfIyYjYkTnx51yU)  
 
 ---
 
